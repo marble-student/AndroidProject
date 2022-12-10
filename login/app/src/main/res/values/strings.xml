@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent_show</string>
+    <string name="msg0">青海湖</string>
+    <string name="msg1">日月山</string>
+    <string name="msg2">无图片</string>
+    <string name="msgBtn">下一步</string>
+    <string name="msg3">请欣赏的：</string>
+    <string name="tt">获取文本</string>
+    <string name="msg4">返回</string>
+    <string name="action_settings">Settings</string>
+</resources>

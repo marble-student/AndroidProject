@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GamePad</string>
+    <string name="left">L</string>
+    <string name="up">U</string>
+    <string name="bottom">B</string>
+    <string name="right">R</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+</resources>
